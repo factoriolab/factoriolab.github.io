@@ -25,6 +25,12 @@ MIT
 @ngrx/store-devtools
 MIT
 
+@ngx-translate/core
+MIT
+
+@ngx-translate/http-loader
+MIT
+
 big-integer
 Unlicense
 This is free and unencumbered software released into the public domain.
