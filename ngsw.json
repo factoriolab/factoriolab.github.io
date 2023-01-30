@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1675096071274,
+  "timestamp": 1675096147801,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -81,7 +81,7 @@
     "/677.af7d5a8aa17fcb4b.js": "5049323a0f0bff6532c4595797504b49d79b3fb7",
     "/assets/glpk-wasm/glpk.all.wasm": "a256348a60f4703838b77b9f3c0bab965c32b994",
     "/assets/i18n/en.json": "5477525685e8e1a3642c8b9898dbee366aa92448",
-    "/assets/i18n/fr.json": "0fc456458cccfb61097684b44d664f7f1792848c",
+    "/assets/i18n/fr.json": "4e17928afacab612580ca31cffa776a1e1636d69",
     "/assets/i18n/zh.json": "10b4bc635d920c69301fa3729204dabdd443c079",
     "/assets/icons/icon-128x128.png": "983e77afd570f31ac052b051c3195ad4f868abf6",
     "/assets/icons/icon-144x144.png": "f7ca93fd4ecf6f8c64cb159ca872be67de2dc0b5",
