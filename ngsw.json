@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1692365955724,
+  "timestamp": 1692714030982,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -244,9 +244,9 @@
     "/data/bobang/data.json": "910453abeb5cbb86b82406aa10594635e616be81",
     "/data/bobang/hash.json": "f4a9a97d67118ff4b2ba41969df698e9c62245af",
     "/data/bobang/icons.webp": "6ba060913e4f6f0ddf5984f5c80478d95948d4d0",
-    "/data/coi/data.json": "afec5926582572b2f27af8867029df6a53d6b81d",
-    "/data/coi/hash.json": "3020db3a7b975f837f63333d2dee855ecc133672",
-    "/data/coi/icons.webp": "8d5b9a8f22caea8d4c16c70aed7000801aa24789",
+    "/data/coi/data.json": "354c1554ec4ebbca9d50eec5932eb19c6f71cba9",
+    "/data/coi/hash.json": "fece4e878d7bd7a82c323e73ad6824179970e050",
+    "/data/coi/icons.webp": "286fd6efad015d89512b60422cc1c289d68e7f9e",
     "/data/dsp/data.json": "790ab9e3920c3e2fc2b7d607f82f48b53d6d609d",
     "/data/dsp/hash.json": "4c5f0248472f3e02611100a25f838ed5a2331c91",
     "/data/dsp/i18n/zh.json": "645a3d112e081bf7df43058823a4774ebbaf630c",
