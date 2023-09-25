@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1695438487048,
+  "timestamp": 1695652663682,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -24,7 +24,7 @@
         "/common.885f3aa19f317183.js",
         "/favicon.ico",
         "/index.html",
-        "/main.203945fd5dac60d4.js",
+        "/main.d0fd49a1de6ca951.js",
         "/polyfills.1dd96880dec584a4.js",
         "/runtime.68edb8e7019370fa.js",
         "/site.webmanifest",
@@ -250,7 +250,7 @@
     "/data/bobang/data.json": "af5afa4173515e197462c61b86b78a14895c9c7e",
     "/data/bobang/hash.json": "9224967aac1c714208844f8fd2496f9917597f1e",
     "/data/bobang/icons.webp": "4e1ac2b39eaff2d35e871b235bc41a2709e7930d",
-    "/data/coi/data.json": "354c1554ec4ebbca9d50eec5932eb19c6f71cba9",
+    "/data/coi/data.json": "97142eb4fc09c982c88e9892c57e5737777765f8",
     "/data/coi/hash.json": "fece4e878d7bd7a82c323e73ad6824179970e050",
     "/data/coi/icons.webp": "286fd6efad015d89512b60422cc1c289d68e7f9e",
     "/data/dsp/data.json": "790ab9e3920c3e2fc2b7d607f82f48b53d6d609d",
@@ -339,8 +339,8 @@
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/icons.0f91ba0092f38179.webp": "f6e2c979c5b5d92da05c4e5b61c5aeafba0721aa",
     "/icons.webp": "f6e2c979c5b5d92da05c4e5b61c5aeafba0721aa",
-    "/index.html": "4a6032bbca41ce64bedb462626412f70ff0c88b5",
-    "/main.203945fd5dac60d4.js": "aa2dd2a68b8af188a50f1d09cd80dc1b131ed4e4",
+    "/index.html": "783b5254be15012ff489d9ea60d2d672720d2fbd",
+    "/main.d0fd49a1de6ca951.js": "373164786dde939d0628bdf0b6ee30c0c75129b1",
     "/mstile-150x150.png": "7a97514987104e30d2ce761a63a992bec07c6b5e",
     "/polyfills.1dd96880dec584a4.js": "4dfae3b314000a6f061c4f513c292f4b7b6d3663",
     "/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
