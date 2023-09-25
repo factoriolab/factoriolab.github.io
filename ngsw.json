@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1695652663682,
+  "timestamp": 1695653223859,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -24,7 +24,7 @@
         "/common.885f3aa19f317183.js",
         "/favicon.ico",
         "/index.html",
-        "/main.d0fd49a1de6ca951.js",
+        "/main.1c3e456c24cc645a.js",
         "/polyfills.1dd96880dec584a4.js",
         "/runtime.68edb8e7019370fa.js",
         "/site.webmanifest",
@@ -47,6 +47,7 @@
         "/android-chrome-512x512.png",
         "/apple-touch-icon.png",
         "/assets/glpk-wasm/glpk.all.wasm",
+        "/assets/i18n/de.json",
         "/assets/i18n/en.json",
         "/assets/i18n/fr.json",
         "/assets/i18n/zh.json",
@@ -205,6 +206,7 @@
     "/android-chrome-512x512.png": "bacd3cc50adc00079eb90753dd1bad83b7be3210",
     "/apple-touch-icon.png": "123ad2d5da1322cb2750ee6ebaffdb84ad37f43b",
     "/assets/glpk-wasm/glpk.all.wasm": "a256348a60f4703838b77b9f3c0bab965c32b994",
+    "/assets/i18n/de.json": "1020227abef0eb7641355af9a2df1a438124ac51",
     "/assets/i18n/en.json": "026e0dc87f50c8bf4ba264f6ff3e682bc45f8c36",
     "/assets/i18n/fr.json": "d84ff19c8774b02b11929d67e2f8e8f8dcde34d6",
     "/assets/i18n/zh.json": "4cd05594fb3c158313279b815e5a4d8233813790",
@@ -339,8 +341,8 @@
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/icons.0f91ba0092f38179.webp": "f6e2c979c5b5d92da05c4e5b61c5aeafba0721aa",
     "/icons.webp": "f6e2c979c5b5d92da05c4e5b61c5aeafba0721aa",
-    "/index.html": "783b5254be15012ff489d9ea60d2d672720d2fbd",
-    "/main.d0fd49a1de6ca951.js": "373164786dde939d0628bdf0b6ee30c0c75129b1",
+    "/index.html": "5f642c9d7cd5b2a4f3a4cd66da044f898a8e1079",
+    "/main.1c3e456c24cc645a.js": "0ef149067b9e21568d725766c0cf0f1a9f3e7375",
     "/mstile-150x150.png": "7a97514987104e30d2ce761a63a992bec07c6b5e",
     "/polyfills.1dd96880dec584a4.js": "4dfae3b314000a6f061c4f513c292f4b7b6d3663",
     "/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
