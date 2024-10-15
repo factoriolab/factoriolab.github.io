@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1729011034707,
+  "timestamp": 1729016446085,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -56,12 +56,15 @@
         "/favicon.ico",
         "/index.html",
         "/main-2GWVOMYQ.js",
+        "/ngsw-worker.js",
         "/polyfills-FFHMD2TL.js",
+        "/safety-worker.js",
         "/site.webmanifest",
         "/styles-XICT4Y4F.css",
         "/theme-black.css",
         "/theme-dark.css",
-        "/theme-light.css"
+        "/theme-light.css",
+        "/worker-basic.min.js"
       ],
       "patterns": []
     },
@@ -257,7 +260,7 @@
     "/assets/i18n/ja.json": "05442b89e7414540b69c905dd5ec4b44bbc12564",
     "/assets/i18n/ru.json": "c9b8df37acfff62ef6d32d2d9f9e03180c06b3ae",
     "/assets/i18n/zh.json": "df267312866818bdb3384b27fa4f4659a4303bcf",
-    "/assets/release.json": "8c361ad56326ac8b2b3c1c8eb9996d0a9ca85d7e",
+    "/assets/release.json": "2acdb8a6987e6a333df707415ad9be72caf26dec",
     "/chunk-3VCQ7RHJ.js": "899921cbb76a8ad900afae72fe24dd5562a26232",
     "/chunk-4EXAWURR.js": "bb397dcce4de4a381b1f39657d4fd980f12b876e",
     "/chunk-4UJCGWLY.js": "b72aff7b013b152d6852965effcd7c92c699d896",
@@ -459,13 +462,16 @@
     "/index.html": "54215e0de405d309db1670f8cbddeb263f7fccf8",
     "/main-2GWVOMYQ.js": "f3294683754d35ca6f8f1caf3b4edc5d0a115f4a",
     "/mstile-150x150.png": "7a97514987104e30d2ce761a63a992bec07c6b5e",
+    "/ngsw-worker.js": "eadda39ece91798d0a99db6dbcf12ad04d33bff6",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/safari-pinned-tab.svg": "1052de5d87de51b50e7b4268da2b0423e5c5a6d1",
+    "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
     "/site.webmanifest": "f5ed88e845e59cb4daab38fe375f27c98761278e",
     "/styles-XICT4Y4F.css": "604d01665635e0f83d42e48f7ccef14955b0c396",
     "/theme-black.css": "a7d5fc50b432ab7d34a4b7696aa7dea1ed02a7b9",
     "/theme-dark.css": "0e8fdcab138d141fd4b2695ae6b6cdcc31ebab4d",
-    "/theme-light.css": "a2c4456d11bc71f9d45a91660217572c24b1a06b"
+    "/theme-light.css": "a2c4456d11bc71f9d45a91660217572c24b1a06b",
+    "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
   },
   "navigationUrls": [
     {
