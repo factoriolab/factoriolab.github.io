@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1734122635122,
+  "timestamp": 1734366472756,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -270,11 +270,11 @@
     "/assets/glpk-wasm/glpk.all.wasm": "a256348a60f4703838b77b9f3c0bab965c32b994",
     "/assets/i18n/de.json": "7890b69292a28ae139155a5f4ef2bd06961279af",
     "/assets/i18n/en.json": "dd75b7eec28a10e2c736193967c78dc2c72e2ab9",
-    "/assets/i18n/fr.json": "1436c47b45c9382eab4d3e3eed8abc297ff6bb1a",
+    "/assets/i18n/fr.json": "7c7498d1646d5c413bf7a5eead5bd1b296b9dc66",
     "/assets/i18n/ja.json": "05442b89e7414540b69c905dd5ec4b44bbc12564",
     "/assets/i18n/ru.json": "030e90e5d53889232164cd1bc85f238d3be739d6",
     "/assets/i18n/zh.json": "12a6eede4a2fc056c2174b0ca6559839c6890576",
-    "/assets/release.json": "d171e5057ada957da7ab3371a44a399a49d1f4bc",
+    "/assets/release.json": "faf75f54ac7f112089d92bb9e2b86d4a1d0acdc1",
     "/chunk-24WT7RJN.js": "a40636f6f57032d6e26fe031f67287acff109496",
     "/chunk-3POCPNN7.js": "655e779990e77044a0ef89e8bcdb1b458309e8f7",
     "/chunk-4P2QIN36.js": "a79dabc23d6f501833b86505e159c33578d0662c",
