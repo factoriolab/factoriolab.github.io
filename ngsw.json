@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1752169567043,
+  "timestamp": 1753472479943,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -358,7 +358,7 @@
     "/assets/i18n/pt-BR.json": "7bbaade25b7462a0382cf68f1ef209e3cd0f3678",
     "/assets/i18n/ru.json": "2f7bce8164779cf4389cf89c7c430a166e21ab3d",
     "/assets/i18n/zh.json": "5e67a75fc2aa75d68644881f695cca0a8e1b4905",
-    "/assets/release.json": "8f615651b8a46b2672422c1406ccf51014824637",
+    "/assets/release.json": "8533312c1cd25e0e09d869371400f7a931a15bc6",
     "/chunk-2TAJP3B6.js": "015642dce708718b985b33d9d763ddd65188ca5d",
     "/chunk-2TFURMSX.js": "36305dbc614b04200bdfa440de1012f30232b4f7",
     "/chunk-3QVSAASI.js": "81dbf582394bcaa86f3554ca0c3dcddb6f5b3c0a",
@@ -683,6 +683,10 @@
     {
       "positive": false,
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/staging$"
     }
   ],
   "navigationRequestStrategy": "performance"
