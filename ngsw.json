@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758075412216,
+  "timestamp": 1758076792273,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -357,7 +357,7 @@
     "/assets/i18n/pt-BR.json": "7bbaade25b7462a0382cf68f1ef209e3cd0f3678",
     "/assets/i18n/ru.json": "fc4277893da62c674728077b4a0fd98068d33242",
     "/assets/i18n/zh.json": "ab6abd268ed1d16dbf6dc37e620b9f453759e1c1",
-    "/assets/release.json": "20fd9c4c9b14569e29e3b4880aef993ccdb5f2a4",
+    "/assets/release.json": "1901d386fb4ac6f27a1ad8f30dcc426c9ee1fde7",
     "/chunk-2AVW7DB3.js": "e6e373cd92899e7442a10f10bca22612ef52f72c",
     "/chunk-2BWTQID7.js": "6c901519784645d716825cc42db88b60ad840b4a",
     "/chunk-2CHC5TDY.js": "5db7b5d2363e819f36106b9f29d28bf4caa25700",
@@ -688,11 +688,23 @@
     },
     {
       "positive": false,
+      "regex": "^\\/staging\\/.*$"
+    },
+    {
+      "positive": false,
       "regex": "^\\/next$"
     },
     {
       "positive": false,
+      "regex": "^\\/next\\/.*$"
+    },
+    {
+      "positive": false,
       "regex": "^\\/old$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/old\\/.*$"
     }
   ],
   "navigationRequestStrategy": "performance"
