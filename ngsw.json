@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1767209816378,
+  "timestamp": 1771854170182,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -359,7 +359,7 @@
     "/assets/i18n/pt-BR.json": "7bbaade25b7462a0382cf68f1ef209e3cd0f3678",
     "/assets/i18n/ru.json": "fc4277893da62c674728077b4a0fd98068d33242",
     "/assets/i18n/zh.json": "ab6abd268ed1d16dbf6dc37e620b9f453759e1c1",
-    "/assets/release.json": "13557330de3b6cffcfc8f416c5ccab6c7904ab12",
+    "/assets/release.json": "0d15d1bae68576572bf6d13b7a98f373a0cdbe8c",
     "/chunk-2TEAITZV.js": "46419c8cbc33492df66081a8ac7dd8fa1f29f962",
     "/chunk-3KP23RO2.js": "3316a58a81c357cd5dffdfec4e5821b88a0a8291",
     "/chunk-3RG4TA4A.js": "db3b185dce9890e505baac521ed3c8912ac06c00",
@@ -601,12 +601,12 @@
     "/data/sfy/i18n/fr.json": "127bb59f276e34e439b7fa15c83ba9a0afb7d949",
     "/data/sfy/i18n/zh.json": "a875ace03442abcba0b9fc25c6754f86f300584a",
     "/data/sfy/icons.webp": "a96eb58c8c10b423029830b125300c8e3c3e083f",
-    "/data/spa/data.json": "3cd45bd39ae53421a35a0caf0d3e799b6fbd5c7f",
+    "/data/spa/data.json": "70367b99f52ccfdc2faff6be97905e0a2b53f549",
     "/data/spa/defaults.json": "31604b81925a7051f9b269d41355bbc1b2ab5a6b",
-    "/data/spa/hash.json": "ca503c9b2bcbc839d7347fda7158b5d159751e86",
+    "/data/spa/hash.json": "db8aa51b165361b66f9ede45bbf9979e658eefec",
     "/data/spa/i18n/ja.json": "58824323ad7854bd3eb0e72eeb6c33b48271e964",
     "/data/spa/i18n/zh.json": "c8cc7828767da3f93bfea59b67a16c28a224075d",
-    "/data/spa/icons.webp": "7616a4246d6a68506e1ee0ba218d9191d30b7448",
+    "/data/spa/icons.webp": "2d5e065fc6b749a64bf0dbec7b02d5e45e736abf",
     "/data/sxp/data.json": "175da54ef3ef6fc932fa7fa889195241ee35e552",
     "/data/sxp/defaults.json": "4f2f7c186846f9c9018c8fd651869c25184bc4db",
     "/data/sxp/hash.json": "58ab2f72b67e6f8755b49a4bd00eae3032365425",
