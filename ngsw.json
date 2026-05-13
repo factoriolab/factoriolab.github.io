@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778687356959,
+  "timestamp": 1778689558255,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -368,7 +368,7 @@
     "/assets/i18n/pt-BR.json": "7bbaade25b7462a0382cf68f1ef209e3cd0f3678",
     "/assets/i18n/ru.json": "fc4277893da62c674728077b4a0fd98068d33242",
     "/assets/i18n/zh.json": "c0a6afc3bbe298f73a567bd2fe87262845d4ecb0",
-    "/assets/release.json": "6a1a31310481be9e7d8905a2a45f18b28e4011fd",
+    "/assets/release.json": "f28dded8562947f798518d310af6e8e6a6907229",
     "/chunk-23A5YRUL.js": "8432d553835fc3f87726960f0353370683b721e1",
     "/chunk-2W6PG3AU.js": "8126ef9e157e96061b080fbcee1879c6e7aa061b",
     "/chunk-73TZY2AQ.js": "07008baf69f1fde73bf9e1b7b8f9eb28b851db57",
@@ -504,7 +504,7 @@
     "/data/fay/icons.webp": "47c03a708cf42c65a851e4e1f3872021f19bc827",
     "/data/fdy/data.json": "b3dd94a7feb06e3c44f3d87ae046705327cfc03f",
     "/data/fdy/defaults.json": "41c7d69c42b58812abf6eb30f4cfbc230e1eab0e",
-    "/data/fdy/hash.json": "cfcf746a3400160d081363ce477d5ffef63908e3",
+    "/data/fdy/hash.json": "afaa83162faafd692668095d9ade4cdea619d0cf",
     "/data/fdy/icons.webp": "dc9e66a97c1ab6e3e135d6964618a39ba9bde0cd",
     "/data/fep/data.json": "dcef346a88e65845939fd2b12a35882ae2e0655b",
     "/data/fep/defaults.json": "6cf3ed81d715926d61258935783ba9d4026d64f1",
