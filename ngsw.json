@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778640657561,
+  "timestamp": 1778687356959,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -368,7 +368,7 @@
     "/assets/i18n/pt-BR.json": "7bbaade25b7462a0382cf68f1ef209e3cd0f3678",
     "/assets/i18n/ru.json": "fc4277893da62c674728077b4a0fd98068d33242",
     "/assets/i18n/zh.json": "c0a6afc3bbe298f73a567bd2fe87262845d4ecb0",
-    "/assets/release.json": "9281684912815ba751c392cad4b5c8f83397b62d",
+    "/assets/release.json": "6a1a31310481be9e7d8905a2a45f18b28e4011fd",
     "/chunk-23A5YRUL.js": "8432d553835fc3f87726960f0353370683b721e1",
     "/chunk-2W6PG3AU.js": "8126ef9e157e96061b080fbcee1879c6e7aa061b",
     "/chunk-73TZY2AQ.js": "07008baf69f1fde73bf9e1b7b8f9eb28b851db57",
@@ -609,12 +609,12 @@
     "/data/sea/defaults.json": "ca9a7dcca6228ddfac34bec79702ddd53367ec7a",
     "/data/sea/hash.json": "9317a48895a6cc9c2d905c9262038da2dce9da29",
     "/data/sea/icons.webp": "2e3788500b932d739d40a3848d757b4200a20b33",
-    "/data/sfy/data.json": "6a9d18f2c8d80e920403d0bb7e56a0557ff0ed21",
+    "/data/sfy/data.json": "6bbb16f996840ef2abd63b8558a1e0d87f98f38d",
     "/data/sfy/defaults.json": "d47e39b5bfedd0119f1253160793f9c2ba09f216",
     "/data/sfy/hash.json": "fe83d9f84bce1303db72c5a41e4cc9cdf86e74fa",
     "/data/sfy/i18n/fr.json": "127bb59f276e34e439b7fa15c83ba9a0afb7d949",
     "/data/sfy/i18n/zh.json": "a875ace03442abcba0b9fc25c6754f86f300584a",
-    "/data/sfy/icons.webp": "a96eb58c8c10b423029830b125300c8e3c3e083f",
+    "/data/sfy/icons.webp": "5ceb5475dcf87a1763ed9172df3ae06e63e6c675",
     "/data/spa/data.json": "70367b99f52ccfdc2faff6be97905e0a2b53f549",
     "/data/spa/defaults.json": "31604b81925a7051f9b269d41355bbc1b2ab5a6b",
     "/data/spa/hash.json": "db8aa51b165361b66f9ede45bbf9979e658eefec",
