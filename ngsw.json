@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778689558255,
+  "timestamp": 1778699264640,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -368,7 +368,7 @@
     "/assets/i18n/pt-BR.json": "7bbaade25b7462a0382cf68f1ef209e3cd0f3678",
     "/assets/i18n/ru.json": "fc4277893da62c674728077b4a0fd98068d33242",
     "/assets/i18n/zh.json": "c0a6afc3bbe298f73a567bd2fe87262845d4ecb0",
-    "/assets/release.json": "f28dded8562947f798518d310af6e8e6a6907229",
+    "/assets/release.json": "baa15bd24add88901af4a710132bc9c6275fba53",
     "/chunk-23A5YRUL.js": "8432d553835fc3f87726960f0353370683b721e1",
     "/chunk-2W6PG3AU.js": "8126ef9e157e96061b080fbcee1879c6e7aa061b",
     "/chunk-73TZY2AQ.js": "07008baf69f1fde73bf9e1b7b8f9eb28b851db57",
@@ -611,7 +611,7 @@
     "/data/sea/icons.webp": "2e3788500b932d739d40a3848d757b4200a20b33",
     "/data/sfy/data.json": "6bbb16f996840ef2abd63b8558a1e0d87f98f38d",
     "/data/sfy/defaults.json": "d47e39b5bfedd0119f1253160793f9c2ba09f216",
-    "/data/sfy/hash.json": "fe83d9f84bce1303db72c5a41e4cc9cdf86e74fa",
+    "/data/sfy/hash.json": "2dfbaf260829c8ea904ecff0fb14d651f5d3e9c9",
     "/data/sfy/i18n/fr.json": "127bb59f276e34e439b7fa15c83ba9a0afb7d949",
     "/data/sfy/i18n/zh.json": "a875ace03442abcba0b9fc25c6754f86f300584a",
     "/data/sfy/icons.webp": "5ceb5475dcf87a1763ed9172df3ae06e63e6c675",
