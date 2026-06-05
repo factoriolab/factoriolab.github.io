@@ -1,0 +1,1 @@
+function a(e,t,r){return r=new Set(r),Array.isArray(e)||(e=[e]),e.forEach(n=>{t?r.add(n):r.delete(n)}),r}export{a};
