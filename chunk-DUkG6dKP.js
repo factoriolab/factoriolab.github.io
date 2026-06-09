@@ -1,1 +1,0 @@
-import'./main-VRHMLDFA.js';var o=[{path:"list",loadComponent:()=>import('./chunk-DV4rnEtE.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-DX4e-zBB.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-D_EILunN.js').then(t=>t.routes)}];export{o as routes};
