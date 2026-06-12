@@ -1,1 +1,0 @@
-import'./main-TVK34ZOL.js';var o=[{path:"list",loadComponent:()=>import('./chunk-CmbthUCv.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-D8gvmbc2.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-JHNCzyUz.js').then(t=>t.routes)}];export{o as routes};

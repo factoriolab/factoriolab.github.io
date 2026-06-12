@@ -1,0 +1,1 @@
+import'./main-BDXARVR4.js';var o=[{path:"list",loadComponent:()=>import('./chunk-VP14NX5B.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-fgfDXtSW.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-DYIMwDK2.js').then(t=>t.routes)}];export{o as routes};
