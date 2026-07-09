@@ -1,0 +1,1 @@
+import'./main-VSPIRY4I.js';var o=[{path:"list",loadComponent:()=>import('./chunk-Cdz79XUA.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-Bk7W6ljB.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-DyMWyW4V.js').then(t=>t.routes)}];export{o as routes};

@@ -1,1 +1,0 @@
-import'./main-GCLECBN5.js';var o=[{path:"list",loadComponent:()=>import('./chunk-BlOpRQu7.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-D7ONlB1C.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-M8wtmFMw.js').then(t=>t.routes)}];export{o as routes};
