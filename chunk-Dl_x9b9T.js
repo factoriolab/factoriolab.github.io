@@ -1,0 +1,1 @@
+import'./main-UGDL4GPM.js';var o=[{path:"list",loadComponent:()=>import('./chunk-CQuRjwBO.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-t1YTeZPp.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-D5o07uCS.js').then(t=>t.routes)}];export{o as routes};
