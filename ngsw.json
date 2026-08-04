@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1785850934220,
+  "timestamp": 1785874613455,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -261,13 +261,13 @@
     "/data/ffy/data.json": "7e9c8149a5631fa4ee6546a7a72cba31a05387ef",
     "/data/ffy/hash.json": "33e043b45db9bd77ee3004b812eb24a52fe54735",
     "/data/ffy/icons.webp": "b2519b9ab89a85975d4c8172adb1c890fd7b5c31",
-    "/data/kr2/data.json": "62d57807fc6124d79e99ebb75336255666d33730",
+    "/data/kr2/data.json": "fdf3fd5a1184613f9f24da2948bdcd3acf13e718",
     "/data/kr2/hash.json": "219ce8756ab9eaa2e8bfd6846d08be688b84cef4",
     "/data/kr2/icons.webp": "09be6369a32b429e2cbd1abc8c3bb455ad91652d",
     "/data/kr2spo/data.json": "8e6498e0d095c736d29014499ef87aae16792357",
     "/data/kr2spo/hash.json": "b0834fffe1ea1bb7c7097b939eed238e0412e9e7",
     "/data/kr2spo/icons.webp": "d58fb03aed07f07358b5e6135bcb888803759bdb",
-    "/data/kr2sxp/data.json": "df38a2d7f43db2bf366bbbcdb6ae24fd9227b1c0",
+    "/data/kr2sxp/data.json": "3eb2296c3ce9d80f6e58e41c34b18c8f26a93daf",
     "/data/kr2sxp/hash.json": "afde4408799b886fa49db5d449c55909dbf21697",
     "/data/kr2sxp/icons.webp": "142a3e48af3125010f04ef8f32d4cf6b6615cccc",
     "/data/mde/data.json": "6b55d85608f1c7078c6cb8fb2dcc6d04c76d7ac7",
@@ -288,7 +288,7 @@
     "/data/pys/data.json": "6a5c8b3a44a9fc779ccbb40e0a0b7a97f25048ba",
     "/data/pys/hash.json": "73c2b125b1d108e953b0b1038a937fe87e1f281e",
     "/data/pys/icons.webp": "411a8116daf3186fabe35a470e6d07edc97026ad",
-    "/data/pysalf/data.json": "d62e3a0a4a2148837efa64e4c41806e6dd947eec",
+    "/data/pysalf/data.json": "ff92da765ae63cbbec3ce20d6b377e3f05aabf7d",
     "/data/pysalf/hash.json": "bd97b14c4eae0ba1e5f105c56529349e7e2377a8",
     "/data/pysalf/icons.webp": "734c03dbceacfd0ffa72f512175ea421f5c55573",
     "/data/sea/data.json": "a04ad73520ad66ce5108e4554f5874b0447a0c7e",
@@ -343,8 +343,8 @@
     "/main-UGIL2DE6.js": "e1f194a10f27ddd5ea1a427450fe1487d7c404dd",
     "/manifest.webmanifest": "bdd5fd376e4f00202de41aada8e53eabea3db91d",
     "/ngsw-worker.js": "e9b33d212937bace0967b94ff7cca3a9b873ef8d",
-    "/ngsw.json": "97863206196a9523c6f986bbe7a7bf7e41ec10e1",
-    "/release.json": "5adfafceb37e2763d05fafed3dceead7f0d3051b",
+    "/ngsw.json": "d84c5a1ac16cbba04bd722f08ab277dbd168e823",
+    "/release.json": "b4cae2583400753e1217ac31c7f801e2f86a3516",
     "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
     "/styles-U42BP35B.css": "95d0d38a60498412ba2e11c1fe8868c9963e9df6",
     "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
