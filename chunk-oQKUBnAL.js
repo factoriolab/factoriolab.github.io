@@ -1,0 +1,1 @@
+import'./main-GRAWCJMA.js';var o=[{path:"list",loadComponent:()=>import('./chunk-C8tkjbt2.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-UQFFAYxn.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-BGAuNi-e.js').then(t=>t.routes)}];export{o as routes};
