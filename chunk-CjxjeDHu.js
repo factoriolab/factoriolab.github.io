@@ -1,0 +1,1 @@
+import'./main-BOBIWYIP.js';var o=[{path:"list",loadComponent:()=>import('./chunk-lGJgtJnb.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-BST5zIb8.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-CjXdMFtk.js').then(t=>t.routes)}];export{o as routes};
