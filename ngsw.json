@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1786857104536,
+  "timestamp": 1786857235709,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -315,7 +315,7 @@
     "/data/sea/data.json": "a04ad73520ad66ce5108e4554f5874b0447a0c7e",
     "/data/sea/hash.json": "9317a48895a6cc9c2d905c9262038da2dce9da29",
     "/data/sea/icons.webp": "2e3788500b932d739d40a3848d757b4200a20b33",
-    "/data/sfy/data.json": "d06c58cf6adaaba120058c00276cf16e047d31a8",
+    "/data/sfy/data.json": "2352b9ee30dd7754b082c19f9730229839b0c80c",
     "/data/sfy/hash.json": "f10b6d6876d3bd42b55a1995251b4c76fd219257",
     "/data/sfy/i18n/fr.json": "9245f7c4eab3076e131aa7795781a1967f63fc52",
     "/data/sfy/i18n/zh.json": "af8f29010fba2f7a5d79d01a1b8e783b543d23b8",
@@ -365,8 +365,8 @@
     "/main-FTYJHEDK.js": "f021bc504448a7280bbefb5a029d9baf3362a429",
     "/manifest.webmanifest": "bdd5fd376e4f00202de41aada8e53eabea3db91d",
     "/ngsw-worker.js": "e9b33d212937bace0967b94ff7cca3a9b873ef8d",
-    "/ngsw.json": "c65d98b6b5a7945302143d1bf5e7843389ffb752",
-    "/release.json": "d9cc34022b3d2382b893274679981ed873600f23",
+    "/ngsw.json": "831f71d169a9d4c34dce37e1d0e67816a171fb43",
+    "/release.json": "924047da91b712975cb7d6c27f7f3c414c97c79c",
     "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
     "/styles-U42BP35B.css": "95d0d38a60498412ba2e11c1fe8868c9963e9df6",
     "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
