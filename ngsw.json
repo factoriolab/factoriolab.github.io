@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1788233239924,
+  "timestamp": 1788356850616,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -361,12 +361,12 @@
     "/icons/icon-72x72.png": "af772f4d8e1f9d20a1a73cd74875dc44dbe61d1d",
     "/icons/icon-96x96.png": "e2f631847e869a681191485f9273c892eeb4ef09",
     "/icons/icons.webp": "d7d8013c9402f367ac03eef4dd830a119c89e0f8",
-    "/index.html": "917f0d7b3aeb14778ba267f41fff92ed0fdf530b",
+    "/index.html": "11e61a084bb1882b35ded11cfbc720d22d281f4b",
     "/main-XUFORTHO.js": "f7720bc71afee96d407c7da6f63fa2392e9b6659",
     "/manifest.webmanifest": "bdd5fd376e4f00202de41aada8e53eabea3db91d",
     "/ngsw-worker.js": "e9b33d212937bace0967b94ff7cca3a9b873ef8d",
-    "/ngsw.json": "b8a081a18594ce06016ab33f30707cdbea781ff5",
-    "/release.json": "703fb4ba5c4c4f032891a4b18f0654d1a84cfec5",
+    "/ngsw.json": "639c1d5ca1aa13f6f5ed2655d0670bccf99361cb",
+    "/release.json": "cc6a55e3aa20ab7d0b4613d6bf2b0552594e67be",
     "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
     "/styles-U42BP35B.css": "95d0d38a60498412ba2e11c1fe8868c9963e9df6",
     "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
