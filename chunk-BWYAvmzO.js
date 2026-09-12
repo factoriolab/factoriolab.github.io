@@ -1,0 +1,1 @@
+import {d9 as on}from'./main-X4FQEW5V.js';var n=class e{transform(r,i){return i.find(o=>o.value===r)}static{this.\u0275fac=function(i){return new(i||e)};}static{this.\u0275pipe=on({name:"option",type:e,pure:true});}};export{n};
