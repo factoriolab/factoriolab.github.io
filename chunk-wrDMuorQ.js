@@ -1,1 +1,0 @@
-import {D,G as Ge,du as Yh,b1 as x1e,a_ as D1e,aw as ie}from'./main-OSWPWFEI.js';var n=class{constructor(){this.confirm=D(Ge);this.edit=D(Yh);this.faTrash=x1e;this.faFloppyDisk=D1e;this.iconOptions=ie(()=>{let{data:d,icons:l}=this.edit();return d.icons.map(o=>({label:o.id,value:o.id,icon:l[o.id]?.url,iconType:"img"})).sort((o,m)=>o.label.localeCompare(m.label))});}};export{n};
