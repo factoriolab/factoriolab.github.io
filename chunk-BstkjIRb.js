@@ -1,0 +1,1 @@
+import {d7 as nn}from'./main-7OIOO6AK.js';var n=class e{transform(r,i){return i.find(o=>o.value===r)}static{this.\u0275fac=function(i){return new(i||e)};}static{this.\u0275pipe=nn({name:"option",type:e,pure:true});}};export{n};
