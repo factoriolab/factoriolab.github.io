@@ -1,1 +1,0 @@
-import{Dn as X1}from"./chunk-esz_aR3t.js";var n=class e{transform(r,i){return i.find(o=>o.value===r)}static{this.ɵfac=function(i){return new(i||e)}}static{this.ɵpipe=X1({name:`option`,type:e,pure:!0})}};export{n as t};
