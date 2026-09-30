@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1790780830931,
+  "timestamp": 1790782502835,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -383,7 +383,7 @@
     "/data/sky/data.json": "b7b25ec6976a4c00379f4084dc53ca4a52a0fb7b",
     "/data/sky/hash.json": "b1e0a82bf31c01c91463ba148272dd1dc336baf7",
     "/data/sky/icons.webp": "d6e0e0ee4463600349d9fba6c95dd0441c803d03",
-    "/data/spa/data.json": "1f1693a2d6d9c0b4009855d1117eae2be0039508",
+    "/data/spa/data.json": "395f6125829bacd75b98f2e6d1e967f7a6c3e250",
     "/data/spa/hash.json": "d3b526eee9038ae47e30654dc4ea864fa49188e9",
     "/data/spa/i18n/ja.json": "58824323ad7854bd3eb0e72eeb6c33b48271e964",
     "/data/spa/i18n/ko.json": "cd044e6215614f1182375792ee6537f606f7227e",
@@ -425,8 +425,8 @@
     "/main-4NYUZHA5.js": "ca473e382c488161b4098f67accddee61f3c42a5",
     "/manifest.webmanifest": "bdd5fd376e4f00202de41aada8e53eabea3db91d",
     "/ngsw-worker.js": "e9b33d212937bace0967b94ff7cca3a9b873ef8d",
-    "/ngsw.json": "14bed4021bc7c76204722aaaee963c0ddc5bd7a8",
-    "/release.json": "4e3bc5e9919698731e5462dc5524238730327e0c",
+    "/ngsw.json": "85feb0cd934d347d2ef2530b1390285196bf2e2c",
+    "/release.json": "f17db482d17c0c2e526778244cf21bfbe4b3c8c7",
     "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
     "/styles-KVILJOI7.css": "34a0cadeb7557dea9e276225367935bc5b2574ff",
     "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
