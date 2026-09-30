@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1790630032504,
+  "timestamp": 1790780830931,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -408,7 +408,7 @@
     "/i18n/es.json": "bab8ac78c371792c43a1df24d5d6786db5b234fd",
     "/i18n/fr.json": "884ae4577b42e2c783f2ee06b489e0041d659d55",
     "/i18n/ja.json": "0cf3d46156ef1bc20e85900c011842d3ccd784d4",
-    "/i18n/ko.json": "34d5fdde7930dc5c91f68d2a12c3bba9cc05fffc",
+    "/i18n/ko.json": "e220f27261d0edbb472f4f4d445791abccad3f61",
     "/i18n/pt-BR.json": "c0d09155e9658df89992c3bdc614d0125ad427b2",
     "/i18n/ru.json": "d5b32f5aa988cbd89229b960cb61b3cd6c44c952",
     "/i18n/zh.json": "854eca9ddb8df12835c4651d1683f9dcc673fcb2",
@@ -425,8 +425,8 @@
     "/main-4NYUZHA5.js": "ca473e382c488161b4098f67accddee61f3c42a5",
     "/manifest.webmanifest": "bdd5fd376e4f00202de41aada8e53eabea3db91d",
     "/ngsw-worker.js": "e9b33d212937bace0967b94ff7cca3a9b873ef8d",
-    "/ngsw.json": "285f60d2558acb6b7a6c3be868b70c17ae1f9347",
-    "/release.json": "a899a790519798cfd65cd9030115e1b1199ab92c",
+    "/ngsw.json": "14bed4021bc7c76204722aaaee963c0ddc5bd7a8",
+    "/release.json": "4e3bc5e9919698731e5462dc5524238730327e0c",
     "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
     "/styles-KVILJOI7.css": "34a0cadeb7557dea9e276225367935bc5b2574ff",
     "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
