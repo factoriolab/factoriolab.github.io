@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1793388191421,
+  "timestamp": 1794248787214,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -375,7 +375,7 @@
     "/data/sea/data.json": "e36a76b1cae1ede0e3212355000719e80d45c48d",
     "/data/sea/hash.json": "f3100367c0c447be81d4870cc81e715d8a186a05",
     "/data/sea/icons.webp": "2e3788500b932d739d40a3848d757b4200a20b33",
-    "/data/sfy/data.json": "13f7a531d08f86c46c1693bf446a9e5c3233d5c5",
+    "/data/sfy/data.json": "47814677ed957e5424db9ecc67b474bd1db5bb68",
     "/data/sfy/hash.json": "fcdae7fd41d58b8f5b83ebdda159024a940f361e",
     "/data/sfy/i18n/fr.json": "9245f7c4eab3076e131aa7795781a1967f63fc52",
     "/data/sfy/i18n/zh.json": "af8f29010fba2f7a5d79d01a1b8e783b543d23b8",
@@ -425,8 +425,8 @@
     "/main-7Y5QPBLX.js": "e408e010fe5931fdad16bf169a1e8e09626e10c9",
     "/manifest.webmanifest": "bdd5fd376e4f00202de41aada8e53eabea3db91d",
     "/ngsw-worker.js": "e9b33d212937bace0967b94ff7cca3a9b873ef8d",
-    "/ngsw.json": "1fceee8e98e50b7e2d9bc70b1eee4f4c2c961b31",
-    "/release.json": "c23e30f08302c9679ef69929311eb3a987a55ad6",
+    "/ngsw.json": "81b462bb996b3cebe5ad04c85ee29911b9d9d1d4",
+    "/release.json": "2136a66195726224092e4c91b0743a3a3c3a0c99",
     "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
     "/styles-JFUKZ6KU.css": "b7b1d48fbed38edb33669326cb8b020d5952f5a5",
     "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
