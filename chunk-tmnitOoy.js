@@ -1,1 +1,0 @@
-import"./main-ZWE432E2.js";var o=[{path:`list`,loadComponent:()=>import(`./chunk-CwHan4wr.js`).then(t=>t.Steps)},{path:`flow`,loadComponent:()=>import(`./chunk-BlgmibqI.js`).then(t=>t.Flow)},{path:`data`,loadChildren:()=>import(`./chunk-DK-eDtdZ.js`).then(t=>t.routes)}];export{o as routes};
