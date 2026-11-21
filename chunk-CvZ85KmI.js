@@ -1,0 +1,1 @@
+import"./main-3LVSBWUM.js";var o=[{path:`list`,loadComponent:()=>import(`./chunk-BTdW-grn.js`).then(t=>t.Steps)},{path:`flow`,loadComponent:()=>import(`./chunk-B6_UvR36.js`).then(t=>t.Flow)},{path:`data`,loadChildren:()=>import(`./chunk-BfbBZ2lN.js`).then(t=>t.routes)}];export{o as routes};

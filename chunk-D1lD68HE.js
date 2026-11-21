@@ -1,1 +1,0 @@
-import"./main-YETIIVOD.js";var o=[{path:`list`,loadComponent:()=>import(`./chunk-DxU-u7XF.js`).then(t=>t.Steps)},{path:`flow`,loadComponent:()=>import(`./chunk-C0pD3IoW.js`).then(t=>t.Flow)},{path:`data`,loadChildren:()=>import(`./chunk-DTkkX688.js`).then(t=>t.routes)}];export{o as routes};
