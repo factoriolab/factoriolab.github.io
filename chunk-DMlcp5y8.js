@@ -1,1 +1,0 @@
-import"./main-ZNDZGUS6.js";var o=[{path:`list`,loadComponent:()=>import(`./chunk-DNMTWPhn.js`).then(t=>t.Steps)},{path:`flow`,loadComponent:()=>import(`./chunk-Cryg4u7p.js`).then(t=>t.Flow)},{path:`data`,loadChildren:()=>import(`./chunk-BFt0CaDO.js`).then(t=>t.routes)}];export{o as routes};
