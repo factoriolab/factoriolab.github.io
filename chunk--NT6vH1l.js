@@ -1,1 +1,0 @@
-import"./main-OEKGOSFR.js";var o=[{path:`list`,loadComponent:()=>import(`./chunk-ZduVDWO3.js`).then(t=>t.Steps)},{path:`flow`,loadComponent:()=>import(`./chunk-CMImLwlC.js`).then(t=>t.Flow)},{path:`data`,loadChildren:()=>import(`./chunk-ClxoR43X.js`).then(t=>t.routes)}];export{o as routes};

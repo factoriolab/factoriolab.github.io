@@ -1,0 +1,1 @@
+import"./main-BONDJISP.js";var o=[{path:`list`,loadComponent:()=>import(`./chunk-BZ0bmvrd.js`).then(t=>t.Steps)},{path:`flow`,loadComponent:()=>import(`./chunk-Yc8TeErs.js`).then(t=>t.Flow)},{path:`data`,loadChildren:()=>import(`./chunk-Ca9j39Jf.js`).then(t=>t.routes)}];export{o as routes};
