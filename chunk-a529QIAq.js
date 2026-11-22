@@ -1,0 +1,1 @@
+import"./main-HUQ47ERA.js";var o=[{path:`list`,loadComponent:()=>import(`./chunk-CGY5y2k6.js`).then(t=>t.Steps)},{path:`flow`,loadComponent:()=>import(`./chunk-BKt1rWIR.js`).then(t=>t.Flow)},{path:`data`,loadChildren:()=>import(`./chunk-C1oG2nq_.js`).then(t=>t.routes)}];export{o as routes};
