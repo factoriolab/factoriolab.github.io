@@ -1,1 +1,0 @@
-import{Kn as Q2}from"./main-J3QRCROO.js";var t=class e{transform(n,i){return i.find(o=>o.value===n)}static{this.ɵfac=function(i){return new(i||e)}}static{this.ɵpipe=Q2({name:`option`,type:e,pure:!0})}};export{t};
